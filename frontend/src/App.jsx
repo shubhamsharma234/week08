@@ -71,7 +71,7 @@ const ManagementPage = ({
     </ProtectedLayout>
   );
 };
-
+// Week 08 CI/CD deployment verification
 function App() {
   return (
     <Routes>
